@@ -1,14 +1,12 @@
 
 # Whatsapp chat sentiment analyzer
 
-After battling numerous errors, finally completed making Whatsapp Chat Sentiment analyzer, my first data analysis project. It is based on SentimentIntensityAnalyzer class from "nltk.sentiment.vader" module. If you ever wonder who is the most positive person in your whatsapp group of let say 200+ or less members then this is what you are looking for.
-Not only posititve user, you can see the following results on overall group & individual as well :
+This is my first data analysis project which involves NLP topics. Designed a Streamlit web app for interactive data exploration. Analyzed WhatsApp chat data, studied trends and sentiments using VADER. If you want to know some insights about your chats and contacts in WhatsApp, the created web app provides you those insights. It leaves you with various information like most frequently contacted person, most active person in a group, most frequently used words and also provides sentiment analysis of the chat with a particular contact saying how positive or negative is that particular contact.
+You can see the following results on overall group & individual as well :
 
 - Monthly Activity map(Positive, Neutral, Negative)
 - Daily Activity map(Positive, Neutral, Negative)
 - Weekly Activity map(Positive, Neutral, Negative)
-- Daily timeline(Positive, Neutral, Negative)
-- Monthly timeline(Positive, Neutral, Negative)
 - Percentage Contribution(Positive, Neutral, Negative)
 - Word Cloud(Positive, Neutral, Negative)
 - Most Common words(Positive, Neutral, Negative)
